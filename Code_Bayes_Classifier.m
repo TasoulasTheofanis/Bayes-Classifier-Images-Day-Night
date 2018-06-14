@@ -57,8 +57,8 @@ ylabel 'Brightness variance'
 
 
 % Read the files that contains the Brightness per Variance values + the number of 'x' signs per grid
-DAY = csvread('D:\day-night\DAY.csv'); 
-NIGHT = csvread('D:\day-night\NIGHT.csv'); 
+DAY = csvread('D:\CSV\DAY.csv'); 
+NIGHT = csvread('D:\CSV\NIGHT.csv'); 
 
 
 % Define collumns 
