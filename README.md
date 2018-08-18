@@ -1,6 +1,6 @@
 # Bayes-Classifier-Images-Day-Night
 
-## Read the full report in [English by clicking here](https://github.com/TasoulasTheofanis/Bayes-Classifier-Images-Day-Night/blob/master/Report_In_English.pdf), or in [Greek by click here](https://github.com/TasoulasTheofanis/Bayes-Classifier-Images-Day-Night/blob/master/Report_In_Greek.pdf)
+## Read the full report in [English by clicking here](https://github.com/TasoulasTheofanis/Bayes-Classifier-Images-Day-Night/blob/master/Report_In_English.pdf), or in [Greek by clicking here](https://github.com/TasoulasTheofanis/Bayes-Classifier-Images-Day-Night/blob/master/Report_In_Greek.pdf)
 
 - ### Naive Bayes classifiers constitute simple probability classifiers based on the Bayes theorem. This theorem expresses the likelihood of a pattern being classified in class ωi given the characteristic vector x. That likehood is equal to the probability, that describes the distribution of the vector x in the ωi class, multiplied by the probability of the pattern belonging to the ωi class, divided by the probability which defines the probabilistic function of x. 
 
